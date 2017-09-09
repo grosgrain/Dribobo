@@ -26,7 +26,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 /**
- * Created by guyuanguo on 9/13/16.
+ * Fetch data from dribbble API
  */
 public class Dribbble {
     public static final int COUNT_PER_LOAD = 12;
